@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ip-locker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8dce2891-0641-4a16-8d01-12f09507d776",
+			"database_name": "ip-locker"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
